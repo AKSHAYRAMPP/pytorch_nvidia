@@ -58,3 +58,6 @@ Jetpack version: Jetpack 4.6.2
      
      
    If properly installed, it will display the pytorch version.
+   
+   
+   [Reference](https://docs.nvidia.com/deeplearning/frameworks/install-pytorch-jetson-platform/index.html)
