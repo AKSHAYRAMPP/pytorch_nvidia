@@ -61,3 +61,9 @@ Jetpack version: Jetpack 4.6.2
    
    
    [Reference](https://docs.nvidia.com/deeplearning/frameworks/install-pytorch-jetson-platform/index.html)
+   
+   wheel files:
+   
+   [1](https://github.com/Qengineering/PyTorch-Jetson-Nano)
+   
+   [2](https://download.pytorch.org/whl/torch/)
